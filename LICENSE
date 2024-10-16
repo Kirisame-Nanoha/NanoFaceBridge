@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This project uses pyvirtualcam, which is licensed under the MIT License.
+For more information, please refer to the pyvirtualcam licensing terms: https://github.com/letmaik/pyvirtualcam/blob/main/LICENSE
+
+This project uses OpenCV (cv2), which is licensed under the Apache License 2.0.
+For more information, please refer to the OpenCV licensing terms: https://github.com/opencv/opencv/blob/master/LICENSE
+
+This project uses numpy, which is licensed under the BSD 3-Clause License.
+For more information, please refer to the numpy licensing terms: https://github.com/numpy/numpy/blob/main/LICENSE.txt
+
+This project uses urllib, which is part of the Python Standard Library and licensed under the Python Software Foundation License.
+For more information, please refer to the Python licensing terms: https://docs.python.org/3/license.html
